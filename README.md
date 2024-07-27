@@ -1,6 +1,6 @@
 
  
- **Este é a entrega do projeto do módulo "Abstraindo um Bootcamp Usando Orientação a Objetos em Java"**  | 
+ **Este é a entrega do projeto do módulo "Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework"**  | 
  --- |
  
  <a href="https://evertonsmoraes.github.io/padroes-projeto-java/" target="_blank">Documentação do Projeto Desenvolvido</a>
