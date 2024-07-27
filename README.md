@@ -3,7 +3,7 @@
  **Este é a entrega do projeto do módulo "Abstraindo um Bootcamp Usando Orientação a Objetos em Java"**  | 
  --- |
  
- <a href="https://evertonsmoraes.github.io/Desafio-POO/" target="_blank">Documentação do Projeto Desenvolvido</a>
+ <a href="https://evertonsmoraes.github.io/padroes-projeto-java/" target="_blank">Documentação do Projeto Desenvolvido</a>
  #### Repositório do Projeto Proposto: <a href="https://github.com/digitalinnovationone/lab-padroes-projeto-java" target="_blank">https://github.com/digitalinnovationone/lab-padroes-projeto-java</a>
 
 **Abaixo replicação da descrição do projeto**
